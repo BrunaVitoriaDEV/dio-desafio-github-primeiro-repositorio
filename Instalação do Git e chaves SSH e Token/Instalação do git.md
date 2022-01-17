@@ -1,5 +1,5 @@
 # Instalação do Git
-## Entra no link de acesso na parte introdutoria desse repositorio.
+## Entra no link de acesso na parte introdutoria desse repositório.
 ##  No Windown
 ### 1. Click em Download for Windown.
 ### 2. Executa o instalador mais adequado em sua maquina.
