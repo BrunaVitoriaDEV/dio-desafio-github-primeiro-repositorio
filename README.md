@@ -9,7 +9,7 @@
 ![Markdown](https://maisgeek.com/wp-content/uploads/2020/10/markdown-logo.pagespeed.ce_.JlQMytzxat.jpg)
 ##### [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) 
 
-# O que eu aprende dentro das aulas de forma resumida e objetiva:
+# O que eu aprende dentro das aulas:
 
 ##### 1. Instalar o GIT
 ##### 2. Chave SSH e Token
@@ -18,4 +18,4 @@
 ##### 5. Trabalhar com o GitHub
 ##### 6. Resolver conflitos que acontecem no GitHub
 
-## Irei apresentar duas de forma mais abrangentes: Instalar o Git e Chave SSH e Token.
+## Irei apresentar duas de forma mais abrangentes: Instalação do Git e Chave SSH e Token.
