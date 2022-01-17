@@ -14,3 +14,5 @@
 ##### 4. Ciclo de vida dos arquivos em Git
 ##### 5. Trabalhar com o GitHub
 ##### 6. Resolver conflitos que acontecem no GitHub
+
+#### Irei apresentar duas de formas mais abrangentes: Instalar o Git e Chave SSH e Token.
